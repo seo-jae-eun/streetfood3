@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/activity_home.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/activity_join.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/activity_main_map.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/fragment_category.xml" value="0.20364583333333333" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/fragment_dashboard.xml" value="0.20364583333333333" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/fragment_home.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/layout/fragment_notifications.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/menu/homemenu.xml" value="0.35625" />
+        <entry key="..\:/AndroidStudio/streetfood3/app/src/main/res/xml/network_security_config.xml" value="0.196875" />
+        <entry key="..\:/streetfood3/app/src/main/res/drawable/addxml.xml" value="0.11203703703703703" />
+        <entry key="..\:/streetfood3/app/src/main/res/drawable/logoutxml.xml" value="0.11203703703703703" />
+        <entry key="..\:/streetfood3/app/src/main/res/drawable/resxml.xml" value="0.12314814814814815" />
+        <entry key="..\:/streetfood3/app/src/main/res/drawable/round_c.xml" value="0.12407407407407407" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/activity_address.xml" value="0.23072916666666668" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/activity_home.xml" value="0.1984375" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_add.xml" value="0.23072916666666668" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_address.xml" value="0.32447916666666665" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_address1.xml" value="0.1984375" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_catagorymap.xml" value="0.23125" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_category.xml" value="0.23125" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_dialog.xml" value="0.10185185185185185" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_mypage.xml" value="0.36614583333333334" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_myregister.xml" value="0.36614583333333334" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_ranking.xml" value="0.36614583333333334" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/fragment_shopinfo.xml" value="0.23125" />
+        <entry key="..\:/streetfood3/app/src/main/res/layout/item_list.xml" value="0.23125" />
+        <entry key="..\:/streetfood3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23125" />
+        <entry key="..\:/streetfood3/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml" value="0.11203703703703703" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
